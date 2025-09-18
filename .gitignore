@@ -1,0 +1,20 @@
+# Arquivos de compilação do PyInstaller
+/dist/
+/build/
+*.spec
+
+# Executável gerado
+*.exe
+
+# Ambiente virtual do Python
+/venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Pastas de resultados (não devem ir para o repositório)
+01_Autoavaliacoes/resultados/
+02_Avaliacoes_Superiores/resultados/
+Relatorio_Final_Medias.xlsx
+log_processamento.txt
